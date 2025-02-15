@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.ServidorChat.resources
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Administrador\Documents\Curso_CSharp\Chatcom.Sockets\ChatServer\obj\Debug\ChatServer.pdb

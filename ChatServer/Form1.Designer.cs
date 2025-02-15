@@ -84,6 +84,7 @@
             this.btnStartServer.TabIndex = 2;
             this.btnStartServer.Text = "Start Server";
             this.btnStartServer.UseVisualStyleBackColor = false;
+            this.btnStartServer.Click += new System.EventHandler(this.btnStartServer_Click);
             // 
             // listaLog
             // 
